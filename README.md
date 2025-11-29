@@ -1,1 +1,1 @@
-The surface roughness data is provided which has been measured using profilometer. 
+The surface roughness data is provided which has been measured using profilometer. There are a total of 6 folders each folder containing nine surface roughness data for 9 parts. A total of 6 folders are present with 54 surface roughness data.
